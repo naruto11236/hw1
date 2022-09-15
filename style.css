@@ -1,0 +1,22 @@
+#mainDiv{
+    margin-left: 600px;
+    height: 300px;
+    width: 440px;
+    align-content: center;
+}
+
+.ul{
+    text-decoration: underline;
+}
+mark {
+    background-color: orange;
+}
+.color{
+    color: red;
+    font-weight: bold;
+}
+
+#homepageLink {
+    align-content: center;
+    margin-left: 25%;
+}
